@@ -1,1 +1,1 @@
-# Machine-Learning-model-to-predict-that-the-person-has-diabetes-or-not.
+# Machine Learning model to predict that the person has diabetes or not.
